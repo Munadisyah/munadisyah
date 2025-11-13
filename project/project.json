@@ -1,0 +1,51 @@
+[
+{
+    "title": "Infentori Studio Website",
+    "tech": "PHP, MySQL, HTML, CSS, JavaScript",
+    "image": "./assets/img/project/infentori-studio.png",
+    "desc": "A professional photography studio booking website with multiple packages, payment tracking, and admin monitoring features.",
+    "links": {
+        "demo": "https://infentoristudio.66ghz.com/",
+        "code": "https://github.com/Munadisyah/infentoristudio"
+    }
+
+    },{
+        "title": "Learn Code Website",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/proyek web dasar.png",
+        "desc":"This is my for dicoding submission.",
+        "links": {
+            "demo": "https://github.com/Munadisyah/gameKBG.github.io",
+            "code": "https://github.com/Munadisyah/gameKBG.github.io"
+        }
+    },{
+        "title": "Website Jajanan Endmar",
+        "tech": "HTML, CSS, JavaScript, dan Bootstrap",
+        "image": "assets/img/project/jajanan.png",
+        "desc": "Website promosi produk kuliner lokal bernama Jajanan Endmar, menampilkan berbagai menu lezat seperti jajanan tradisional dan makanan ringan khas rumahan. Dibuat dengan desain responsif agar mudah diakses dari perangkat apa pun.",
+        "links": {
+            "demo": "https://jajananendmar.42web.io/",
+            "code": "https://github.com/munadisyah/jajananendmar"
+        }
+    },{
+        "title": "Kampung terwanakiata Profile",
+        "tech": "HTML, CSS, JS & BOOTSTRAP",
+        "image": "./assets/img/project/terwanakiata.png",
+        "desc": "website kampung halaman, untuk berbagai informasi mengenai pembuatan ktp,kk dan sebagainnya",
+        "links": {
+            "demo": "https://terwanakiata-website.vercel.app/",
+            "code": "https://github.com/Munadisyah/terwanakiata-website"
+        }
+    },{
+        "title": "Portfolio Website",
+        "tech": "HTML, CSS, JS & BOOTSTRAP",
+        "image": "assets/img/project/portofolio.png",
+        "desc": "This is my project for personal portfolio.",
+        "links": {
+            "demo": "https://munadisyah.github.io/",
+            "code": "https://munadisyah.github.io/"
+  }
+}
+
+
+]

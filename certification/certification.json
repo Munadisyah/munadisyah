@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Designing the visual appearance of the website Sololearn with SQL fundamentals",
+        "by": "skillsacademy x sololearn",
+        "image": "./certification/sertifikat sql.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.sololearn.com/learning/1060"
+        }
+    }, {
+        "name": "Building and managing databases using MySQL",
+        "by": "Great Learning Academy x BYJU'S",
+        "image": "./certification/sertifikat mysql.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Folympus1.mygreatlearning.com%2Fcourse_certificate%2FXHLOHFPG"
+        }
+    } 
+]
